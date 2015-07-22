@@ -21,6 +21,6 @@
 			<uses-permission android:name="android.permission.ACCESS_COARSE_LOCATION" />
 		</config-file>
 		<source-file src="src/android/Swarmify.java" target-dir="src/id/agusibrahim/swarmify"/>
-		<framework src="swarmlib" custom="true" />
+		<framework src="src/android/swarmlib" custom="true" />
 	</platform>
 </plugin>
